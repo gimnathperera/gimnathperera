@@ -5,7 +5,7 @@ I'm Gimnath Perera a Full Stack Web Developer and Content Creator on [Youtube](h
 [![Mail Badge](https://img.shields.io/badge/-Encrypted-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCLY1amfukR7T-bbYYRcSyTg) 
  [![Mail Badge](https://img.shields.io/badge/-gimnathperera-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gimnathperera@gmail.com)
 
-
+![Alt Text](https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif)
 
 ## Software Engineer | Freelancer | Open-Source Contributor!!
 
