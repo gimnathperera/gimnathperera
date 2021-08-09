@@ -1,16 +1,18 @@
 ## Hi there, I'm Gimnath <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+I'm Gimnath Perera a Full Stack Web Developer and Content Creator on [Youtube](https://www.youtube.com/channel/UCLY1amfukR7T-bbYYRcSyTg). I believe that a software engineer should first of all love his tasks and be creative on them with utmost involvement to complete the work within time intervals.
 
 [![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://gimnath-perera.herokuapp.com/)
 
 ## Software Engineer | Freelancer | Open-Source Contributor!!
 
-- 🔭 I just started my blog to guide fresher developers
-- 👨‍💻 I love to explore & learn new technologies
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+
+- 🔭 I just started my blog to guide fresher developers.
+- 👨‍💻 I love to explore & learn new technologies.
+- 👯 I’m looking to collaborate with other content creators.
+- 📫 How to reach me: gimnathperera@gmail.com.
 - ⚡ Fun fact: I love pizza 🍕 
 ---
-### Connect with me:
+### Connect with me
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -21,7 +23,7 @@
 <br />
 
 ---
-### Languages:
+### Top Technologies
 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
@@ -64,6 +66,8 @@
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gimnath-Perera)](https://github.com/anuraghazra/github-readme-stats)
 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Gimnath-Perera.Gimnath-Perera)
 
 [website]: https://gimnath-perera.herokuapp.com/
 [twitter]: https://twitter.com/codeSTACKr
