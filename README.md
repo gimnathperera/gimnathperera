@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://gimnath-perera.herokuapp.com/)
 
-## Software Engineer at Rhino Partners | Freelancer | Open-Source Contributor!!
+## Software Engineer | Freelancer | Open-Source Contributor!!
 
 - 🔭 I just started my blog to guide fresher developers
 - 👨‍💻 I love to explore & learn new technologies
