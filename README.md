@@ -3,7 +3,7 @@ I'm Gimnath Perera a Full Stack Web Developer and Content Creator on [Youtube](h
 
 [![Twitter Badge](https://img.shields.io/badge/-Website-1ca0f1?style=flat&labelColor=1ca0f1&logo=google&logoColor=white&link=https://twitter.com/Ipenywis)](https://gimnath-perera.herokuapp.com/) 
 [![Mail Badge](https://img.shields.io/badge/-Encrypted-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCLY1amfukR7T-bbYYRcSyTg) 
- [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gimnathperera@gmail.com)
+ [![Mail Badge](https://img.shields.io/badge/-gimnathperera-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gimnathperera@gmail.com)
 
 ## Software Engineer | Freelancer | Open-Source Contributor!!
 
