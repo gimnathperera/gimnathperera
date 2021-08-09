@@ -1,7 +1,9 @@
 ## Hi there, I'm Gimnath <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I'm Gimnath Perera a Full Stack Web Developer and Content Creator on [Youtube](https://www.youtube.com/channel/UCLY1amfukR7T-bbYYRcSyTg). I believe that a software engineer should first of all love his tasks and be creative on them with utmost involvement to complete the work within time intervals.
 
-[![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://gimnath-perera.herokuapp.com/)
+[![Twitter Badge](https://img.shields.io/badge/-Website-1ca0f1?style=flat&labelColor=1ca0f1&logo=google&logoColor=white&link=https://twitter.com/Ipenywis)](https://gimnath-perera.herokuapp.com/) 
+[![Mail Badge](https://img.shields.io/badge/-Encrypted-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCLY1amfukR7T-bbYYRcSyTg) 
+ [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gimnathperera@gmail.com)
 
 ## Software Engineer | Freelancer | Open-Source Contributor!!
 
@@ -14,11 +16,11 @@ I'm Gimnath Perera a Full Stack Web Developer and Content Creator on [Youtube](h
 ---
 ### Connect with me
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="24px" src="https://api.iconify.design/mdi/dev-to.svg?width=24" />][devto]
+[<img align="left" alt="gimnath.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="gimnath | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="gimnath | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="gimnath | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="gimnath | Instagram" width="24px" src="https://api.iconify.design/mdi/dev-to.svg?width=24" />][devto]
 <br />
 <br />
 
