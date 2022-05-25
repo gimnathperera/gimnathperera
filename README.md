@@ -1,5 +1,5 @@
 ## Hi there, I'm Gimnath <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm Gimnath Perera a Full Stack Web Developer and Content Creator on [Youtube](https://www.youtube.com/channel/UCLY1amfukR7T-bbYYRcSyTg). I believe that a software engineer should first of all love his tasks and be creative on them with utmost involvement to complete the work within time intervals.
+I'm Gimnath Perera a Full Stack Web Developer and Content Creator on [Youtube](https://www.youtube.com/channel/UCLY1amfukR7T-bbYYRcSyTg). I believe that a software engineer should first of all love his tasks and be creative on them with utmost involvement to complete the work within time intervals. Feel free to go through my repositories 😉 the best once are private though 😉
 
 [![Twitter Badge](https://img.shields.io/badge/-Website-1ca0f1?style=flat&labelColor=1ca0f1&logo=google&logoColor=white&link=https://twitter.com/Ipenywis)](https://gimnath-perera.herokuapp.com/) 
 [![Mail Badge](https://img.shields.io/badge/-Encrypted-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCLY1amfukR7T-bbYYRcSyTg) 
