@@ -1,4 +1,4 @@
-## Hi there, I'm Gimnath <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there, I'm Gimnath <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 I'm Gimnath Perera a Full Stack Web Developer and Content Creator on [Youtube](https://www.youtube.com/channel/UCLY1amfukR7T-bbYYRcSyTg). I believe that a software engineer should first of all love his tasks and be creative on them with utmost involvement to complete the work within time intervals. Feel free to go through my repositories, **The best ones are private though 😉**
 
 [![Twitter Badge](https://img.shields.io/badge/-Website-1ca0f1?style=flat&labelColor=1ca0f1&logo=google&logoColor=white&link=https://twitter.com/Ipenywis)](https://gimnath-perera.herokuapp.com/) 
