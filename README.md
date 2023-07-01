@@ -71,7 +71,7 @@ I'm Gimnath Perera a Full Stack Web Developer and Content Creator on [Youtube](h
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gimnath-Perera)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Gimnath-Perera.Gimnath-Perera)
+![visitors](https://komarev.com/ghpvc/?username=Gimnath-Perera)
 
 [website]: https://gimnath-perera.herokuapp.com/
 [twitter]: https://twitter.com/codeSTACKr
