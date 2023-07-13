@@ -76,7 +76,7 @@ I'm Gimnath Perera a Full Stack Web Developer and Content Creator on [Youtube](h
 [website]: https://gimnath-perera.herokuapp.com/
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://www.youtube.com/channel/UCLY1amfukR7T-bbYYRcSyTg
-[devto]: https://dev.to/gimnath
+[devto]: https://dev.to/gimnathperera
 [linkedin]: https://www.linkedin.com/in/gimnath-perera
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
