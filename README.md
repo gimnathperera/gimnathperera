@@ -1,7 +1,7 @@
 ## Hi there, I'm Gimnath <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-I'm Gimnath Perera a Full Stack Web Developer and Content Creator on [Youtube](https://www.youtube.com/channel/UCLY1amfukR7T-bbYYRcSyTg). I believe that a software engineer should first of all love his tasks and be creative on them with utmost involvement to complete the work within time intervals. Feel free to go through my repositories, **The best ones are private though 😉**
+I'm a Full Stack Web Developer and Content Creator on [YouTube](https://www.youtube.com/channel/UCLY1amfukR7T-bbYYRcSyTg). I'm all about bringing creativity and passion to every project I tackle, ensuring timely delivery and top-notch results. While some of my best work remains private, you can get a glimpse of my skills and projects on GitHub. For a deeper dive into my portfolio, visit my [website](https://www.gimnath.me). Let's embark on this journey of innovation together! 😉**
 
-[![Twitter Badge](https://img.shields.io/badge/-Website-1ca0f1?style=flat&labelColor=1ca0f1&logo=google&logoColor=white&link=https://twitter.com/Ipenywis)](https://gimnath-perera.herokuapp.com/) 
+[![Twitter Badge](https://img.shields.io/badge/-Website-1ca0f1?style=flat&labelColor=1ca0f1&logo=google&logoColor=white&link=https://twitter.com/Ipenywis)](https://www.gimnath.me)
 [![Mail Badge](https://img.shields.io/badge/-Encrypted-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCLY1amfukR7T-bbYYRcSyTg) 
  [![Mail Badge](https://img.shields.io/badge/-gimnathperera-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gimnathperera@gmail.com)
 
