@@ -69,7 +69,9 @@ I'm a Full Stack Web Developer and Content Creator on [YouTube](https://www.yout
 
  ### 🐱‍💻 GitHub Stats
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimnathperera)](https://github.com/anuraghazra/github-readme-stats)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gimnathperera&show_icons=true)
+
+
 
 
 ![visitors](https://komarev.com/ghpvc/?username=Gimnath-Perera)
