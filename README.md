@@ -5,7 +5,7 @@
   
   ## 🌟 Senior Full Stack Engineer | Founder & Creator of [eventra.lk](https://eventra.lk) | YouTube Content Creator
   
-  [![Website](https://img.shields.io/badge/Portfolio-gimnath.me-39FF14?style=for-the-badge&logo=react&logoColor=white)](https://www.gimnath.me)
+  [![Website](https://img.shields.io/badge/Portfolio-gimnath.site-39FF14?style=for-the-badge&logo=react&logoColor=white)](https://www.gimnath.site)
   [![Eventra](https://img.shields.io/badge/Founder-eventra.lk-FF5757?style=for-the-badge&logo=eventbrite&logoColor=white)](https://eventra.lk)
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCLY1amfukR7T-bbYYRcSyTg)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gimnath-perera)
