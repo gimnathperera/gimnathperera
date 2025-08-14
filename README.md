@@ -20,7 +20,7 @@ I transform complex problems into elegant, accessible solutions. With expertise 
 - 🏆 **Founder & Sole Developer of [eventra.lk](https://eventra.lk)** - Sri Lanka's premier event management platform
 - 🔭 Currently building scalable web applications and sharing knowledge on my [YouTube channel](https://www.youtube.com/channel/UCLY1amfukR7T-bbYYRcSyTg)
 - 🌱 Passionate about performance optimization, clean architecture, and developer experience
-- 👨‍💻 Portfolio: [gimnath.me](https://www.gimnath.me) - Explore my featured projects and case studies
+- 👨‍💻 Portfolio: [gimnath.site](https://www.gimnath.site) - Explore my featured projects and case studies
 - 📝 Recently launched my blog to mentor newer developers through industry challenges
 - 🤝 Open to collaboration on innovative open-source projects and content creation
 - 💬 Ask me about React, Node.js, system architecture, or scaling applications
