@@ -38,7 +38,7 @@ I transform complex problems into elegant, accessible solutions. With expertise 
 - 💳 Integrated payment gateway for seamless transactions
 - 📱 Responsive design with mobile-first approach
 - 📊 Advanced analytics for event organizers
-- 🔒 Secure user authentication and data protection\
+- 🔒 Secure user authentication and data protection
 
 <div align="center">
   <a href="https://eventra.lk">
