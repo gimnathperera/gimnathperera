@@ -5,8 +5,8 @@
   
   ## 🌟 Senior Full Stack Engineer | Founder & Creator of [eventra.lk](https://eventra.lk) | YouTube Content Creator
   
-  [![Website](https://img.shields.io/badge/Portfolio-gimnath.site-39FF14?style=for-the-badge&logo=react&logoColor=white)](https://www.gimnath.site)
-  [![Eventra](https://img.shields.io/badge/Founder-eventra.lk-FF5757?style=for-the-badge&logo=eventbrite&logoColor=white)](https://eventra.lk)
+  [![Website](https://img.shields.io/badge/Portfolio-gimnath.site-0b9c8b?style=for-the-badge&logo=react&logoColor=white)](https://www.gimnath.site)
+  [![Eventra](https://img.shields.io/badge/Founder-eventra.lk-ca5c37?style=for-the-badge&logo=eventbrite&logoColor=white)](https://eventra.lk)
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCLY1amfukR7T-bbYYRcSyTg)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gimnath-perera)
   [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/gimnathperera)
@@ -109,7 +109,7 @@ I transform complex problems into elegant, accessible solutions. With expertise 
   <h3>Let's connect and build something amazing together! 🚀</h3>
   
   <a href="https://www.gimnath.me">
-    <img src="https://img.shields.io/badge/Visit_My_Portfolio-39FF14?style=for-the-badge&logo=react&logoColor=white" alt="Visit Portfolio" />
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-0b9c8b?style=for-the-badge&logo=react&logoColor=white" alt="Visit Portfolio" />
   </a>
   <a href="https://eventra.lk">
     <img src="https://img.shields.io/badge/Check_Out_eventra.lk-FF5757?style=for-the-badge&logo=eventbrite&logoColor=white" alt="Check Out eventra.lk" />
