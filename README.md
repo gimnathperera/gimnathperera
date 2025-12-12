@@ -92,11 +92,11 @@ I transform complex problems into elegant, accessible solutions. With expertise 
 ## 📊 GitHub Stats
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=gimnathperera&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gimnathperera&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="github-stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gimnathperera&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gimnathperera&theme=radical" alt="github-streak" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gimnathperera&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gimnathperera&layout=compact&langs_count=8&theme=radical" alt="top-language" />
 </div>
 
 <div align="center">
