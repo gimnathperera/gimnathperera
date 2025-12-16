@@ -108,7 +108,7 @@ I transform complex problems into elegant, accessible solutions. With expertise 
 <div align="center">
   <h3>Let's connect and build something amazing together! 🚀</h3>
   
-  <a href="https://www.gimnath.me">
+  <a href="https://www.gimnath.site">
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-0b9c8b?style=for-the-badge&logo=react&logoColor=white" alt="Visit Portfolio" />
   </a>
   <a href="https://eventra.lk">
