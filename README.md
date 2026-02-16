@@ -93,6 +93,7 @@ I transform complex problems into elegant, accessible solutions. With expertise 
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=gimnathperera&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="github-stats" />
+
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gimnathperera&theme=radical" alt="github-streak" />
   
@@ -101,7 +102,10 @@ I transform complex problems into elegant, accessible solutions. With expertise 
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Gimnath-Perera&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
-[![committers.top badge](https://user-badge.committers.top/sri-lanka/gimnathperera.svg)](https://user-badge.committers.top/sri-lanka/gimnathperera)
+<a href="https://committers.top/sri_lanka/gimnathperera">
+  <img referrerpolicy="no-referrer" src="https://user-badge.committers.top/sri_lanka/gimnathperera.svg" alt="committers.top badge" />
+</a>
+
 </div>
 
 
