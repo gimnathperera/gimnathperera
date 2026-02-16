@@ -101,7 +101,9 @@ I transform complex problems into elegant, accessible solutions. With expertise 
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Gimnath-Perera&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+  [![committers.top badge](https://user-badge.committers.top/sri_lanka/gimnathperera.svg)](https://user-badge.committers.top/sri_lanka/gimnathperera)
 </div>
+
 
 ---
 
