@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" alt="Coding Animation" width="450"/>
   
   ## 🌟 Senior Full Stack Engineer | Founder & Creator of [eventra.lk](https://eventra.lk) | YouTube Content Creator
-  
+  [![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS_Certified-AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
   [![Website](https://img.shields.io/badge/Portfolio-gimnath.site-0b9c8b?style=for-the-badge&logo=react&logoColor=white)](https://www.gimnath.site)
   [![Eventra](https://img.shields.io/badge/Founder-eventra.lk-ca5c37?style=for-the-badge&logo=eventbrite&logoColor=white)](https://eventra.lk)
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCLY1amfukR7T-bbYYRcSyTg)
