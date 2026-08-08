@@ -91,23 +91,53 @@ I transform complex problems into elegant, accessible solutions. With expertise 
 
 ## 📊 GitHub Stats
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=gimnathperera&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="github-stats" />
+<div align="center">
 
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gimnathperera&theme=radical" alt="github-streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gimnathperera&layout=compact&langs_count=8&theme=radical" alt="top-language" />
+  <img
+    src="https://streak-stats.demolab.com/?user=gimnathperera&theme=tokyonight&hide_border=true&background=0d1117&stroke=FF5757&ring=FF5757&fire=FF5757&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=FF5757&sideLabels=c9d1d9&dates=8b949e"
+    width="60%"
+  />
+
 </div>
+
+<!-- Contribution Graph -->
+<div align="center">
+
+  <a href="https://github.com/gimnathperera">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=gimnathperera&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=FF5757&line=FF5757&point=ffffff&area=true&area_color=FF5757"
+      alt="Gimnath's GitHub Activity Graph"
+    />
+  </a>
+
+</div>
+
+<br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gimnath-Perera&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
-<a href="https://committers.top/sri_lanka/gimnathperera">
-  <img referrerpolicy="no-referrer" src="https://user-badge.committers.top/sri_lanka/gimnathperera.svg" alt="committers.top badge" />
-</a>
-
+  <img
+    src="https://komarev.com/ghpvc/?username=Gimnath-Perera&label=Profile%20Views&color=FF5757&style=for-the-badge"
+    alt="Profile Views"
+  />
+  <a href="https://committers.top/sri_lanka/gimnathperera">
+    <img
+      referrerpolicy="no-referrer"
+      src="https://user-badge.committers.top/sri_lanka/gimnathperera.svg"
+      alt="committers.top badge"
+    />
+  </a>
 </div>
 
+<br/>
+
+<div align="center">
+
+<img
+  src="https://stats.pphat.top/stats?username=gimnathperera&avatar_mode=radar&theme=buefy-dark&data_border_style=frame"
+  alt="GitHub Stats"
+/>
+
+</div>
 
 ---
 
