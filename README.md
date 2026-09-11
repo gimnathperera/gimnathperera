@@ -8,7 +8,7 @@
 
 [![AWS Certified Solutions Architect Associate](https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#-aws-certifications)
 [![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS_Certified-AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#-aws-certifications)
-[![Website](https://img.shields.io/badge/Portfolio-gimnath.site-0b9c8b?style=for-the-badge&logo=react&logoColor=white)](https://www.gimnath.site)
+[![Website](https://img.shields.io/badge/Portfolio-gimnath.tech-0b9c8b?style=for-the-badge&logo=react&logoColor=white)](https://www.gimnath.tech)
 [![Eventra](https://img.shields.io/badge/Founder-eventra.lk-ca5c37?style=for-the-badge&logo=eventbrite&logoColor=white)](https://eventra.lk)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCLY1amfukR7T-bbYYRcSyTg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gimnath-perera)
@@ -22,7 +22,7 @@ I transform complex problems into elegant, accessible solutions. With expertise 
 - 🏆 **Founder & Sole Developer of [eventra.lk](https://eventra.lk)** - Sri Lanka's premier event management platform
 - 🔭 Currently building scalable web applications and sharing knowledge on my [YouTube channel](https://www.youtube.com/channel/UCLY1amfukR7T-bbYYRcSyTg)
 - 🌱 Passionate about performance optimization, clean architecture, and developer experience
-- 👨‍💻 Portfolio: [gimnath.site](https://www.gimnath.site) - Explore my featured projects and case studies
+- 👨‍💻 Portfolio: [gimnath.tech](https://www.gimnath.tech) - Explore my featured projects and case studies
 - 📝 Recently launched my blog to mentor newer developers through industry challenges
 - 🤝 Open to collaboration on innovative open-source projects and content creation
 - 💬 Ask me about React, Node.js, system architecture, or scaling applications
@@ -160,7 +160,7 @@ AI Practitioner
 <div align="left">
   <h3>Let's connect and build something amazing together! 🚀</h3>
 
-  <a href="https://www.gimnath.site">
+  <a href="https://www.gimnath.tech">
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-0b9c8b?style=for-the-badge&logo=react&logoColor=white" alt="Visit Portfolio" />
   </a>
 
