@@ -95,14 +95,14 @@ I transform complex problems into elegant, accessible solutions. With expertise 
 
 <table>
 <tr>
-<td align="left" width="240">
+<td align="center" width="240">
 <img src="https://raw.githubusercontent.com/turboBasic/aws-certification-badges/main/assets/vector%20rendered/aws-certified-solutions-architect-associate.svg" width="140" alt="AWS Certified Solutions Architect Associate">
 <br>
 <strong>AWS Certified</strong>
 <br>
 Solutions Architect – Associate
 </td>
-<td align="left" width="240">
+<td align="center" width="240">
 <img src="https://raw.githubusercontent.com/turboBasic/aws-certification-badges/main/assets/vector%20rendered/aws-certified-ai-practitioner.svg" width="140" alt="AWS Certified AI Practitioner">
 <br>
 <strong>AWS Certified</strong>
