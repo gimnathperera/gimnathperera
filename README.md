@@ -13,7 +13,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-gimnath.tech-0b9c8b?style=for-the-badge&logo=react&logoColor=white)](https://www.gimnath.tech)
 [![Eventra](https://img.shields.io/badge/Founder-eventra.lk-FF5757?style=for-the-badge&logo=eventbrite&logoColor=white)](https://eventra.lk)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCLY1amfukR7T-bbYYRcSyTg)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gimnath-perera) <!-- DEVTO-FOLLOWERS:START -->[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/gimnathperera)<!-- DEVTO-FOLLOWERS:END -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gimnath-perera) <!-- DEVTO-FOLLOWERS:START -->[![Dev.to](https://img.shields.io/badge/dev.to-967%20followers-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/gimnathperera)<!-- DEVTO-FOLLOWERS:END -->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gimnathperera@gmail.com)
 
 [![AWS Certified Solutions Architect Associate](https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](#-certifications)
