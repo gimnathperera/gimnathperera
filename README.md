@@ -1,170 +1,226 @@
-# 🚀 Hello World, I'm Gimnath Perera!
+<!-- ============================== HEADER ============================== -->
 
-<div align="left">
-  <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" alt="Coding Animation" width="450"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5757,50:ca5c37,100:0b9c8b&height=220&section=header&text=Gimnath%20Perera&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Senior%20Full%20Stack%20Engineer%20%E2%80%A2%20Founder%20of%20eventra.lk%20%E2%80%A2%20Creator&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Gimnath Perera"/>
+
+<div align="center">
+
+<a href="https://www.gimnath.tech">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5757&center=true&vCenter=true&width=640&lines=Hello+World%2C+I'm+Gimnath+%F0%9F%91%8B;I+build+scalable+full-stack+products;Founder+%26+sole+developer+of+eventra.lk;AWS+Certified+Solutions+Architect;Sharing+what+I+learn+on+YouTube+%F0%9F%8E%A5" alt="Typing SVG"/>
+</a>
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-gimnath.tech-0b9c8b?style=for-the-badge&logo=react&logoColor=white)](https://www.gimnath.tech)
+[![Eventra](https://img.shields.io/badge/Founder-eventra.lk-FF5757?style=for-the-badge&logo=eventbrite&logoColor=white)](https://eventra.lk)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCLY1amfukR7T-bbYYRcSyTg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gimnath-perera) <!-- DEVTO-FOLLOWERS:START -->[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/gimnathperera)<!-- DEVTO-FOLLOWERS:END -->
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gimnathperera@gmail.com)
+
+[![AWS Certified Solutions Architect Associate](https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](#-certifications)
+[![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS_Certified-AI_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](#-certifications)
+<img src="https://komarev.com/ghpvc/?username=gimnathperera&label=Profile%20Views&color=FF5757&style=flat-square" alt="Profile Views"/>
+
 </div>
 
-## 🌟 Senior Full Stack Engineer | Founder & Creator of [eventra.lk](https://eventra.lk) | YouTube Content Creator
+<!-- ============================== ABOUT ============================== -->
 
-[![AWS Certified Solutions Architect Associate](https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#-aws-certifications)
-[![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS_Certified-AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#-aws-certifications)
-[![Website](https://img.shields.io/badge/Portfolio-gimnath.tech-0b9c8b?style=for-the-badge&logo=react&logoColor=white)](https://www.gimnath.tech)
-[![Eventra](https://img.shields.io/badge/Founder-eventra.lk-ca5c37?style=for-the-badge&logo=eventbrite&logoColor=white)](https://eventra.lk)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCLY1amfukR7T-bbYYRcSyTg)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gimnath-perera)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/gimnathperera)
-[![Email](https://img.shields.io/badge/Email-gimnathperera@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gimnathperera@gmail.com)
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
 
-## 💻 About Me
+<table>
+<tr>
+<td width="58%" valign="top">
 
-I transform complex problems into elegant, accessible solutions. With expertise in full-stack development, I deliver robust applications that scale and perform across platforms. My work spans enterprise solutions, consumer applications, and cutting-edge web experiences.
+I transform complex problems into **elegant, accessible solutions**. With deep full-stack expertise, I ship robust applications that scale and perform across platforms — from enterprise systems to consumer apps and cutting-edge web experiences.
 
-- 🏆 **Founder & Sole Developer of [eventra.lk](https://eventra.lk)** - Sri Lanka's premier event management platform
-- 🔭 Currently building scalable web applications and sharing knowledge on my [YouTube channel](https://www.youtube.com/channel/UCLY1amfukR7T-bbYYRcSyTg)
-- 🌱 Passionate about performance optimization, clean architecture, and developer experience
-- 👨‍💻 Portfolio: [gimnath.tech](https://www.gimnath.tech) - Explore my featured projects and case studies
-- 📝 Recently launched my blog to mentor newer developers through industry challenges
-- 🤝 Open to collaboration on innovative open-source projects and content creation
-- 💬 Ask me about React, Node.js, system architecture, or scaling applications
+- 🏆 **Founder & sole developer of [eventra.lk](https://eventra.lk)**
+- 🔭 Building scalable web apps & teaching on [YouTube](https://www.youtube.com/channel/UCLY1amfukR7T-bbYYRcSyTg)
+- 🌱 Into performance, clean architecture & DX
+- 📝 Blogging to mentor newer developers
+- 🤝 Open to open-source & content collabs
+- 💬 Ask me about **React, Node.js, system architecture, scaling**
 - ⚡ Fun fact: I love pizza 🍕
 
-## 🚀 Featured Project: eventra.lk
+</td>
+<td width="42%" align="center" valign="middle">
+<img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" alt="Coding Animation" width="100%"/>
+</td>
+</tr>
+</table>
 
-<div align="left">
-  <img src="https://img.shields.io/badge/⭐_FOUNDER_&_SOLE_DEVELOPER_⭐-FF5757?style=for-the-badge" alt="Founder Badge" />
-</div>
+<!-- ============================== FEATURED PROJECT ============================== -->
 
-[**eventra.lk**](https://eventra.lk) is Sri Lanka's leading event management platform that I conceptualized, built, and scaled from the ground up:
+## 🚀 Featured Project
 
-- 🎭 Complete event lifecycle management solution
-- 💳 Integrated payment gateway for seamless transactions
-- 📱 Responsive design with mobile-first approach
-- 📊 Advanced analytics for event organizers
-- 🔒 Secure user authentication and data protection
+<table>
+<tr>
+<td>
 
-<div align="left">
-  <a href="https://eventra.lk">
-    <img src="https://img.shields.io/badge/Visit_eventra.lk-FF5757?style=for-the-badge&logo=eventbrite&logoColor=white" alt="Visit eventra.lk" />
-  </a>
-</div>
+<h3>
+  <a href="https://eventra.lk">🎟️ eventra.lk</a>
+  &nbsp;<img src="https://img.shields.io/badge/⭐_FOUNDER_&_SOLE_DEVELOPER-FF5757?style=flat-square" alt="Founder Badge" align="center"/>
+</h3>
 
-## 🛠️ Tech Stack & Tools
+**Sri Lanka's leading event management platform** — conceptualized, built, and scaled from the ground up.
 
-### Frontend
+| | | |
+|:--|:--|:--|
+| 🎭 **End-to-end** event lifecycle | 💳 **Integrated** payment gateway | 📱 **Mobile-first** responsive UI |
+| 📊 **Advanced** organizer analytics | 🔒 **Secure** auth & data protection | ⚡ **Built to scale** |
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+<a href="https://eventra.lk">
+  <img src="https://img.shields.io/badge/Visit_eventra.lk-FF5757?style=for-the-badge&logo=eventbrite&logoColor=white" alt="Visit eventra.lk"/>
+</a>
 
-### Backend
+</td>
+</tr>
+</table>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![MolecularJS](https://img.shields.io/badge/Molecular.js-3EAAAF?style=for-the-badge&logo=moleculer&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<!-- ============================== TECH STACK ============================== -->
 
-### Database
+## 🛠️ Tech Stack
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Convex](https://img.shields.io/badge/Convex-FF6F61?style=for-the-badge&logo=convex&logoColor=white)
+<table>
+<tr>
+<td align="center" width="140"><b>Frontend</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind&theme=dark" alt="Frontend"/>
+  <br/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Backend</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python&theme=dark" alt="Backend"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Moleculer-3EAAAF?style=flat-square&logo=moleculer&logoColor=white" alt="Moleculer"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Database</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase&theme=dark" alt="Database"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Convex-FF6F61?style=flat-square&logo=convex&logoColor=white" alt="Convex"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Cloud & DevOps</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=aws,docker&theme=dark" alt="Cloud & DevOps"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>AI</b></td>
+<td>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+</td>
+</tr>
+</table>
 
-### DevOps & AI
+<!-- ============================== YOUTUBE ============================== -->
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Langchain](https://img.shields.io/badge/Langchain-3178C6?style=for-the-badge&logo=chainlink&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+## 📺 Featured on YouTube
 
-## 📺 Featured YouTube Content
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=_E457tcq5KY">
+  <img src="https://img.youtube.com/vi/_E457tcq5KY/hqdefault.jpg" width="100%" alt="Mobile OTP Verification with Node.js"/>
+</a>
+<br/><sub><b>🔐 Mobile OTP Verification with Node.js</b></sub>
+</td>
+<td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=tMptg9HYWo4">
+  <img src="https://img.youtube.com/vi/tMptg9HYWo4/hqdefault.jpg" width="100%" alt="Deep Learning Plant Disease Detection"/>
+</a>
+<br/><sub><b>🌿 Deep Learning Plant Disease Detection</b></sub>
+</td>
+<td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=2zSaNgP_7i4">
+  <img src="https://img.youtube.com/vi/2zSaNgP_7i4/hqdefault.jpg" width="100%" alt="React Native Camera Integration"/>
+</a>
+<br/><sub><b>📸 React Native Camera Integration</b></sub>
+</td>
+</tr>
+</table>
 
-[![OTP Verification](https://img.shields.io/badge/🔐_Mobile_OTP_Verification_with_Node.js-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=_E457tcq5KY)
+<a href="https://www.youtube.com/channel/UCLY1amfukR7T-bbYYRcSyTg">
+  <img src="https://img.shields.io/badge/View_all_videos-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="View all videos"/>
+</a>
 
-[![Plant Disease Detection](https://img.shields.io/badge/🌿_Deep_Learning_Plant_Disease_Detection-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=tMptg9HYWo4)
+<!-- ============================== CERTIFICATIONS ============================== -->
 
-[![React Native Camera](https://img.shields.io/badge/📸_React_Native_Camera_Integration-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=2zSaNgP_7i4)
-
-➡️ [View all videos...](https://www.youtube.com/channel/UCLY1amfukR7T-bbYYRcSyTg)
-
-## 🏆 AWS Certifications
+## 🏆 Certifications
 
 <table>
 <tr>
 <td align="center" width="240">
-<img src="https://raw.githubusercontent.com/turboBasic/aws-certification-badges/main/assets/vector%20rendered/aws-certified-solutions-architect-associate.svg" width="140" alt="AWS Certified Solutions Architect Associate">
-<br>
-<strong>AWS Certified</strong>
-<br>
-Solutions Architect – Associate
+<img src="https://raw.githubusercontent.com/turboBasic/aws-certification-badges/main/assets/vector%20rendered/aws-certified-solutions-architect-associate.svg" width="130" alt="AWS Certified Solutions Architect Associate">
+<br/>
+<b>AWS Certified</b>
+<br/>
+<sub>Solutions Architect – Associate</sub>
 </td>
 <td align="center" width="240">
-<img src="https://raw.githubusercontent.com/turboBasic/aws-certification-badges/main/assets/vector%20rendered/aws-certified-ai-practitioner.svg" width="140" alt="AWS Certified AI Practitioner">
-<br>
-<strong>AWS Certified</strong>
-<br>
-AI Practitioner
+<img src="https://raw.githubusercontent.com/turboBasic/aws-certification-badges/main/assets/vector%20rendered/aws-certified-ai-practitioner.svg" width="130" alt="AWS Certified AI Practitioner">
+<br/>
+<b>AWS Certified</b>
+<br/>
+<sub>AI Practitioner</sub>
 </td>
 </tr>
 </table>
+
+<!-- ============================== GITHUB STATS ============================== -->
 
 ## 📊 GitHub Stats
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<img
-  src="https://github-readme-stats-fast.vercel.app/api?username=gimnathperera&show_icons=true&theme=dark&hide_border=true"
-  width="100%"
-  alt="Gimnath's GitHub Stats"
-/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=gimnathperera&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF5757&icon_color=0b9c8b&text_color=c9d1d9&ring_color=FF5757" width="100%" alt="GitHub Stats"/>
 </td>
 <td width="50%" valign="top">
-<img
-  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gimnathperera&layout=compact&theme=dark&hide_border=true"
-  width="100%"
-  alt="Most Used Languages"
-/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gimnathperera&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF5757&text_color=c9d1d9" width="100%" alt="Most Used Languages"/>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://streak-stats.demolab.com/?user=gimnathperera&hide_border=true&background=0d1117&stroke=FF5757&ring=FF5757&fire=FF5757&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=FF5757&sideLabels=c9d1d9&dates=8b949e" width="100%" alt="GitHub Streak"/>
 </td>
 </tr>
 </table>
 
-<div align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=gimnathperera&label=Profile%20Views&color=FF5757&style=for-the-badge"
-    alt="Profile Views"
-  />
+### 🌌 Contribution Radar
+
+<div align="center">
+  <img src="https://stats.pphat.top/stats?username=gimnathperera&avatar_mode=radar&theme=buefy-dark&data_border_style=frame" width="100%" alt="GitHub Contribution Radar"/>
+  <br/><br/>
   <a href="https://committers.top/sri_lanka/gimnathperera">
-    <img
-      referrerpolicy="no-referrer"
-      src="https://user-badge.committers.top/sri_lanka/gimnathperera.svg"
-      alt="committers.top badge"
-    />
+    <img referrerpolicy="no-referrer" src="https://user-badge.committers.top/sri_lanka/gimnathperera.svg" alt="committers.top badge"/>
   </a>
 </div>
 
-<br>
+<!-- ============================== FOOTER ============================== -->
 
-<img
-  src="https://stats.pphat.top/stats?username=gimnathperera&avatar_mode=radar&theme=buefy-dark&data_border_style=frame"
-  width="480"
-  alt="GitHub Contribution Stats"
-/>
+<div align="center">
 
----
+### Let's connect and build something amazing together! 🚀
 
-<div align="left">
-  <h3>Let's connect and build something amazing together! 🚀</h3>
+<a href="https://www.gimnath.tech">
+  <img src="https://img.shields.io/badge/Visit_My_Portfolio-0b9c8b?style=for-the-badge&logo=react&logoColor=white" alt="Visit Portfolio"/>
+</a>
+<a href="https://eventra.lk">
+  <img src="https://img.shields.io/badge/Check_Out_eventra.lk-FF5757?style=for-the-badge&logo=eventbrite&logoColor=white" alt="Check Out eventra.lk"/>
+</a>
+<a href="mailto:gimnathperera@gmail.com">
+  <img src="https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-  <a href="https://www.gimnath.tech">
-    <img src="https://img.shields.io/badge/Visit_My_Portfolio-0b9c8b?style=for-the-badge&logo=react&logoColor=white" alt="Visit Portfolio" />
-  </a>
-
-  <a href="https://eventra.lk">
-    <img src="https://img.shields.io/badge/Check_Out_eventra.lk-FF5757?style=for-the-badge&logo=eventbrite&logoColor=white" alt="Check Out eventra.lk" />
-  </a>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b9c8b,50:ca5c37,100:FF5757&height=120&section=footer" width="100%" alt="footer"/>
