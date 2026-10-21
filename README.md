@@ -1,11 +1,11 @@
 <!-- ============================== HEADER ============================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5757,50:ca5c37,100:0b9c8b&height=220&section=header&text=Gimnath%20Perera&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Senior%20Full%20Stack%20Engineer%20%E2%80%A2%20Product%20Builder%20%E2%80%A2%20AWS%20Certified&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Gimnath Perera"/>
+<img src="assets/header.svg" width="100%" alt="Gimnath Perera: Senior Full Stack Engineer, Product Builder, AWS Certified"/>
 
 <div align="center">
 
 <a href="https://www.gimnath.tech">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5757&center=true&vCenter=true&width=640&lines=Hello+World%2C+I'm+Gimnath+%F0%9F%91%8B;I+build+and+ship+full-stack+products;Founder+%26+sole+developer+of+eventra.lk;Building+ExamBurger+%F0%9F%8D%94+%26+DuoDrop+%F0%9F%92%A7;AWS+Certified+Solutions+Architect;Sharing+what+I+learn+on+YouTube+%F0%9F%8E%A5" alt="Typing SVG"/>
+  <img src="assets/terminal.svg" width="720" alt="Hello World, I'm Gimnath. I build and ship full-stack products."/>
 </a>
 
 <br/><br/>
@@ -151,4 +151,4 @@ I turn complex problems into **simple, fast, accessible products**, and I take t
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b9c8b,50:ca5c37,100:FF5757&height=120&section=footer" width="100%" alt="footer"/>
+<img src="assets/footer.svg" width="100%" alt="footer"/>
