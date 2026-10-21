@@ -41,10 +41,10 @@ I turn complex problems into **simple, fast, accessible products**, and I take t
 ## 🚀 Products I've Built
 
 <p align="center">
-  <a href="https://eventra.lk"><img src="assets/eventra.svg" width="100%" alt="eventra.lk: Sri Lanka's event discovery and ticketing platform"/></a>
+  <a href="https://examburger.tech"><img src="assets/examburger.svg" width="100%" alt="ExamBurger: free certification practice exams and revision-card packs"/></a>
 </p>
 <p align="center">
-  <a href="https://examburger.tech"><img src="assets/examburger.svg" width="100%" alt="ExamBurger: free certification practice exams and revision-card packs"/></a>
+  <a href="https://eventra.lk"><img src="assets/eventra.svg" width="100%" alt="eventra.lk: Sri Lanka's event discovery and ticketing platform"/></a>
 </p>
 <p align="center">
   <a href="https://duo-drop.vercel.app"><img src="assets/duodrop.svg" width="100%" alt="DuoDrop: a hydration game for couples"/></a>
@@ -62,9 +62,9 @@ I turn complex problems into **simple, fast, accessible products**, and I take t
   <a href="https://github.com/gimnathperera/Plant-Safe"><img src="https://github-readme-stats-fast.vercel.app/api/pin?username=gimnathperera&repo=Plant-Safe&hide_border=true&bg_color=161b22&title_color=FF5757&icon_color=0b9c8b&text_color=c9d1d9&description_lines_count=2" width="49%" alt="Plant-Safe"/></a>
   <a href="https://github.com/gimnathperera/mocktopus"><img src="https://github-readme-stats-fast.vercel.app/api/pin?username=gimnathperera&repo=mocktopus&hide_border=true&bg_color=161b22&title_color=FF5757&icon_color=0b9c8b&text_color=c9d1d9&description_lines_count=2" width="49%" alt="mocktopus"/></a>
   <a href="https://github.com/gimnathperera/Emotion-based-music-player"><img src="https://github-readme-stats-fast.vercel.app/api/pin?username=gimnathperera&repo=Emotion-based-music-player&hide_border=true&bg_color=161b22&title_color=FF5757&icon_color=0b9c8b&text_color=c9d1d9&description_lines_count=2" width="49%" alt="MoodTunes: emotion-based music player"/></a>
-  <a href="https://github.com/gimnathperera/Molemi-App"><img src="https://github-readme-stats-fast.vercel.app/api/pin?username=gimnathperera&repo=Molemi-App&hide_border=true&bg_color=161b22&title_color=FF5757&icon_color=0b9c8b&text_color=c9d1d9&description_lines_count=2" width="49%" alt="Molemi-App"/></a>
   <a href="https://github.com/gimnathperera/react-mui-multi-search"><img src="https://github-readme-stats-fast.vercel.app/api/pin?username=gimnathperera&repo=react-mui-multi-search&hide_border=true&bg_color=161b22&title_color=FF5757&icon_color=0b9c8b&text_color=c9d1d9&description_lines_count=2" width="49%" alt="react-mui-multi-search"/></a>
   <a href="https://github.com/gimnathperera/web-scraping-Riyasewana.lk"><img src="https://github-readme-stats-fast.vercel.app/api/pin?username=gimnathperera&repo=web-scraping-Riyasewana.lk&hide_border=true&bg_color=161b22&title_color=FF5757&icon_color=0b9c8b&text_color=c9d1d9&description_lines_count=2" width="49%" alt="web-scraping-Riyasewana.lk"/></a>
+  <a href="https://github.com/gimnathperera/rainbow-riot"><img src="https://github-readme-stats-fast.vercel.app/api/pin?username=gimnathperera&repo=rainbow-riot&hide_border=true&bg_color=161b22&title_color=FF5757&icon_color=0b9c8b&text_color=c9d1d9&description_lines_count=2" width="49%" alt="rainbow-riot"/></a>
 </p>
 
 <p align="center">
@@ -94,6 +94,16 @@ I turn complex problems into **simple, fast, accessible products**, and I take t
   <img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Amazon Bedrock"/>
 </p>
 
+<!-- ============================== CERTIFICATIONS ============================== -->
+
+## 🏆 Certifications
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/turboBasic/aws-certification-badges/main/assets/vector%20rendered/aws-certified-solutions-architect-associate.svg" width="140" alt="AWS Certified Solutions Architect – Associate"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/turboBasic/aws-certification-badges/main/assets/vector%20rendered/aws-certified-ai-practitioner.svg" width="140" alt="AWS Certified AI Practitioner"/>
+</p>
+
 <!-- ============================== YOUTUBE ============================== -->
 
 ## 📺 Featured on YouTube
@@ -106,16 +116,6 @@ I turn complex problems into **simple, fast, accessible products**, and I take t
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCLY1amfukR7T-bbYYRcSyTg"><img src="https://img.shields.io/badge/View_all_videos-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="View all videos"/></a>
-</p>
-
-<!-- ============================== CERTIFICATIONS ============================== -->
-
-## 🏆 Certifications
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/turboBasic/aws-certification-badges/main/assets/vector%20rendered/aws-certified-solutions-architect-associate.svg" width="140" alt="AWS Certified Solutions Architect – Associate"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/turboBasic/aws-certification-badges/main/assets/vector%20rendered/aws-certified-ai-practitioner.svg" width="140" alt="AWS Certified AI Practitioner"/>
 </p>
 
 <!-- ============================== GITHUB STATS ============================== -->
