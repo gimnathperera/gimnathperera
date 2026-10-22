@@ -17,7 +17,7 @@
 
 [![AWS Certified Solutions Architect Associate](https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](#-certifications)
 [![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS_Certified-AI_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](#-certifications)
-<img src="https://komarev.com/ghpvc/?username=gimnathperera&label=Profile%20Views&color=FF5757&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=gimnathperera&style=flat-square&color=FF5757&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
