@@ -47,7 +47,7 @@ I turn complex problems into **simple, fast, accessible products**, and I take t
   <a href="https://eventra.lk"><img src="assets/eventra.svg" width="100%" alt="eventra.lk: Sri Lanka's event discovery and ticketing platform"/></a>
 </p>
 <p align="center">
-  <a href="https://duo-drop.vercel.app"><img src="assets/duodrop.svg" width="100%" alt="DuoDrop: a hydration game for couples"/></a>
+  <a href="https://duodrop.online"><img src="assets/duodrop.svg" width="100%" alt="DuoDrop: a hydration game for couples"/></a>
 </p>
 
 <!-- ============================== OPEN SOURCE ============================== -->
